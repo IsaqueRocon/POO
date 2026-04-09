@@ -1,6 +1,6 @@
 public class Charada {
     private final String pergunta;
-    private final String resposta;
+    private final String Resposta;
 
     public Charada(String pergunta, String resposta) {
         this.pergunta = pergunta;
